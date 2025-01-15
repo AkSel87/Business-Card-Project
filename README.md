@@ -16,10 +16,6 @@ Technologies Used
 - HTML5
 - Basic CSS (optional to add later)
 
-Future Improvements
-- Adding responsive design with CSS
-- Hosting the project on GitHub Pages
-
 Author
 Created by Ak87Sel
 
