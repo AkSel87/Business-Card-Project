@@ -1,50 +1,88 @@
-Project 1: Business Card Website
+🏷️ Visitenkarten-Website | Business Card Website
 
-📌 Project Overview
-This project is my first practical application of HTML and CSS fundamentals from my learning plan. The goal is to create a multilingual business card website that supports basic HTML elements, simple navigation, and multilingual functionality.
+🌍 Deutsch | English
 
-🔧 Tools and Programs Used
-- Editor:** Visual Studio Code
-- Version Control: Git & GitHub
-- Extensions: Prettier, Live Server
-- Browser Development: Chrome DevTools
-- Technologies: HTML5, CSS (future addition)
+📖 Deutsche Beschreibung 🇩🇪  
 
-📚 Learning Plan
-Module 1: HTML and CSS Fundamentals (Week 1–8)
+🌟 Über das Projekt  
+Dieses Projekt ist meine erste praktische Anwendung der HTML-Grundlagen aus meinem Lernplan.  
+Ziel ist die Erstellung einer mehrsprachigen Visitenkarten-Website, die grundlegende HTML-Elemente,  
+einfache Navigation und Sprachumschaltung unterstützt.
 
-Week 1: Chapter 1 – HTML Basics
-- Learning Objectives: HTML structure, tags, attributes, links, and images
-- Exercises:
-    - Create an HTML page with headings, paragraphs, links, and images
-- Project: Business Card
-    - HTML page with name, image, and navigation
-    - Repository: Business Card Website
-- Enhancements:
-    - Set up Visual Studio Code:
-        - Install plugins: Prettier, Live Server
-    - GitHub:
-        - Create a repository and upload the project
+🔧 Verwendete Tools und Programme  
+- Editor: Visual Studio Code  
+- Versionskontrolle: Git und GitHub  
+- Erweiterungen: Prettier, Live Server  
+- Browser-Entwicklung: Chrome DevTools  
+- Technologien: HTML5 (zukünftig Ergänzung von CSS)  
 
-🚀 Features
-- 🌍 Multilingual Support (English, German, Turkish)
-- 🔗 Navigation for better usability
-- 🎨 Clean and simple HTML5 structure
+📚 Lernplan – Modul 1: HTML- und CSS-Grundlagen (Woche 1–8)  
 
-🛠 How to Use
-1. Clone or download this repository.
-2. Open the desired HTML file (e.g., `Projekt_1.html`) in your browser.
-3. Explore the multilingual links and navigation options.
+📌 Woche 1: Kapitel 1 – HTML-Grundlagen 
+✅ Lernziele: HTML-Struktur, Tags, Attribute, Links und Bilder verstehen  
+✅ Übungen: 
+   - Erstellen einer HTML-Seite mit Überschriften, Absätzen, Links und Bildern  
 
-🎯 Long-Term Goals
-- Build a portfolio with diverse projects to apply for junior positions.
-- Expand web development skills with CSS, JavaScript, and later Python.
-- Gradually implement advanced functionalities.
+📌 Projekt: Visitenkarte 
+✅ HTML-Seite mit Name, Bild und Navigation 
+✅ Repository: *Visitenkarten-Website  
 
-📬 Contact
-- 📧 Email: Ak87Sel@gmail.com
-- 🐙 GitHub: Ak87Sel
-- 🌐 Portfolio: ----
+📌 Verbesserungen:  
+✔ Visual Studio Code einrichten: 
+   - Plugins installieren: **Prettier, Live Server  
+✔ GitHub:  
+   - Repository erstellen & Projekt hochladen  
+
+📂 Projektstruktur  
+
+📌 Funktionen  
+✔ 🌍 Mehrsprachiger Support (Englisch, Deutsch, Türkisch)  
+✔ 🔗 Navigation für bessere Benutzerfreundlichkeit  
+✔ 🎨 Saubere und einfache HTML5-Struktur 
+
+📖 English Description 🇬🇧  
+
+🌟 About the Project  
+This project is my first practical application of HTML basics from my learning plan.  
+The goal is to create a multilingual business card website, featuring basic HTML elements,  
+simple navigation, and language switching.
+
+🔧 Tools & Programs  
+- Editor: Visual Studio Code  
+- Version Control: Git and GitHub  
+- Extensions: Prettier, Live Server  
+- Browser Development: Chrome DevTools  
+- Technologies: HTML5 (future addition of CSS)  
+
+📚 Learning Plan – Module 1: HTML & CSS Basics (Week 1–8)  
+
+📌 Week 1: Chapter 1 – HTML Basics  
+✅ Learning Goals: Understanding HTML structure, tags, attributes, links, and images  
+✅ Exercises:  
+   - Create an HTML page with headings, paragraphs, links, and images  
+
+📌 Project: Business Card Website  
+✅ HTML page with name, image, and navigation  
+✅ Repository: Visitenkarten-Website 
+
+📌 Improvements: 
+✔ Set up Visual Studio Code:  
+   - Install Prettier, Live Server plugins  
+✔ GitHub:  
+   - Create repository & upload project  
+
+📂 Project Structure  
+
+📌 Features  
+✔ 🌍 Multilingual Support (English, German, Turkish)  
+✔ 🔗 Navigation for better user experience  
+✔ 🎨 Clean and simple HTML5 structure  
+
+📬 Kontakt | Contact  
+📧 E-Mail: [Ak87Sel@gmail.com](mailto:Ak87Sel@gmail.com)  
+🐙 GitHub: [Ak87Sel](https://github.com/Ak87Sel)  
+
+🎯 Lernziel: Dieses Projekt hilft mir, die Grundlagen von HTML zu verstehen und eine funktionale Visitenkarten-Webseite zu erstellen.  
+🎯 Learning Goal: This project helps me understand the basics of HTML and create a functional business card website.  
 
 
-🚀 Follow my learning journey and development in web technologies!
