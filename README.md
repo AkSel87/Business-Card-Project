@@ -25,11 +25,11 @@ einfache Navigation und Sprachumschaltung unterstützt.
 
 📌 Projekt: Visitenkarte 
 ✅ HTML-Seite mit Name, Bild und Navigation 
-✅ Repository: *Visitenkarten-Website  
+✅ Repository: Visitenkarten-Website  
 
 📌 Verbesserungen:  
 ✔ Visual Studio Code einrichten: 
-   - Plugins installieren: **Prettier, Live Server  
+   - Plugins installieren: Prettier, Live Server  
 ✔ GitHub:  
    - Repository erstellen & Projekt hochladen  
 
